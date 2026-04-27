@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="issue-tracker@localhost" uuid="74f550c2-3d32-431e-8144-a5c4e2cb3bd6">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:issue-tracker</jdbc-url>
+      <working-dir>$PROJECT_DIR$</working-dir>
+    </data-source>
+  </component>
+</project>
