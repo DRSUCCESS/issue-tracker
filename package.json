@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@hookform/resolvers": "^5.2.2",
     "@prisma/client": "^5.3.1",
     "@radix-ui/themes": "^3.3.0",
     "@tailwindcss/postcss": "^4.2.4",
@@ -20,7 +21,6 @@
     "classname": "^0.0.0",
     "classnames": "^2.3.2",
     "easymde": "^2.20.0",
-    "eslint": "9.39.4",
     "eslint-config-next": "16.2.4",
     "next": "^16.2.4",
     "postcss": "8.5.12",
@@ -35,6 +35,7 @@
     "zod": "^4.3.6"
   },
   "devDependencies": {
-    "daisyui": "^5.5.19"
+    "daisyui": "^5.5.19",
+    "eslint": "^9.39.4"
   }
 }
