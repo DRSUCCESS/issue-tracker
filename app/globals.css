@@ -1,8 +1,6 @@
 @import "tailwindcss";
 
-@plugin "daisyui" {
-    themes: winter --default, night --prefersdark;
-}
+@plugin "daisyui" {themes: winter}
 
 body {
     color: rgb(var(--foreground-rgb));
